@@ -1,0 +1,6 @@
+{
+  "Привет! Я погодный бот. Напиши название города, чтобы узнать погоду.": "Hello! I am a weather bot. Type a city name to get the weather.",
+  "Ошибка: {error}": "Error: {error}",
+  "Погода в {city}:\nТемпература: {temp}°C\nСостояние: {description}": "Weather in {city}:\nTemperature: {temp}°C\nCondition: {description}",
+  "Произошла ошибка. Попробуйте позже.": "An error occurred. Please try again later."
+}
